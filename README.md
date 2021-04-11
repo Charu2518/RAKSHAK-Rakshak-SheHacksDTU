@@ -1,5 +1,6 @@
-# SHEHACKSDTU-RAKSHAK
-# Rakshak
+# RAKSHAK
+# Built by : Rakshak 
+as a part of SheHacks DTU 2021 conducted by CLIMB DTU
 
 <h1>Introduction</h1>  <BR>
     
