@@ -30,9 +30,9 @@ Description of the hack-we are building a website to have a solution which will 
     <h1>Contributors</h1>
     Team name:Rakshak
     <ul>
-        <a href="https://github.com/laks1806"> <li>Lakshita Singh</li></a>
-           <a href="https://github.com/Charu2518"><li>Charu Tandan</li></a>
-           <a href="https://github.com/jb3081"><li>Jessica Banka</li></a>
+         <li>Lakshita Singh</li>
+         <li>Charu Tandan</li>
+          <li>Jessica Banka</li>
     </ul>
             
 <img src="https://user-images.githubusercontent.com/77248016/114280700-298f7880-9a58-11eb-97e0-83ac75651540.jpeg"> 
