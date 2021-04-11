@@ -1,6 +1,6 @@
 # RAKSHAK
 # Built by : Rakshak 
-as a part of SheHacks DTU 2021 conducted by CLIMB DTU
+<h3>As a part of SheHacks DTU 2021 conducted by CLIMB DTU</h3>
 
 <h1>Introduction</h1>  <BR>
     
@@ -37,4 +37,4 @@ Description of the hack-we are building a website to have a solution which will 
             
 <img src="https://user-images.githubusercontent.com/77248016/114280700-298f7880-9a58-11eb-97e0-83ac75651540.jpeg"> 
 
-<h3>Made at:</h3>
+
